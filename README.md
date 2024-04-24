@@ -2,9 +2,6 @@
 This is a Simple College Management System Developed for Educational Purpose using Python (Django).
 Feel free to make changes based on your requirements.
 
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-
 ## Features of this Project
 
 ### A. Admin Users Can
